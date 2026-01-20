@@ -1,5 +1,8 @@
 # Titanic Survival Prediction - Modularized OOP Implementation
 
+<img width="2752" height="1536" alt="unnamed (3)" src="https://github.com/user-attachments/assets/19804276-f65e-4524-9aa2-b6f23ff79f15" />
+
+
 A complete, production-ready, object-oriented implementation of the Titanic survival prediction machine learning project. 
 
 ## Project Structure
